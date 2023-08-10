@@ -57,9 +57,6 @@ Welcome to **Epoch Explorers** – where innovation meets creativity! Get ready 
 Contact me on any of social media links to contribute to my desings 😀.
 
 ## 📬 Contact
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 Have questions? Reach out to me at vyash5877@gmail.com.
 
 ## 📜 License
@@ -68,10 +65,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-[![Follow us on Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
-[![Follow us on Linkedin](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://linkedin.com/yourtwitterhandle)
-[![Follow us on Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yourtwitterhandle)
+[![Follow me on Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)  
 
-[![Star this project](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/yourusername/awesome-project)
+[![Follow me on Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yourtwitterhandle)  
+
+[![Follow me on Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/yourusername/awesome-project)
 
 
