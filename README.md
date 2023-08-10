@@ -20,7 +20,6 @@ Welcome to **Epoch Explorers** – where innovation meets creativity! Get ready 
 
 ## 📷 Screenshots
 
-Showcase the stunning visuals of your project.
 
 ![Screenshot (154)](https://github.com/Anantcupcakke/Epoch-explorer/assets/128799651/4784b215-65b4-4357-a14b-92c992afa351)
 
